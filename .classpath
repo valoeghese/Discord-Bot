@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/discord4j-common-3.0.12.jar"/>
+	<classpathentry kind="lib" path="libs/discord4j-core-3.0.12.jar"/>
+	<classpathentry kind="lib" path="libs/reactor-core-3.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="libs/discord4j-gateway-3.0.12.jar"/>
+	<classpathentry kind="lib" path="libs/discord4j-rest-3.0.12.jar"/>
+	<classpathentry kind="lib" path="libs/discord4j-voice-3.0.12.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-datatype-jdk8-2.10.2.jar"/>
+	<classpathentry kind="lib" path="libs/netty-all-4.1.45.Final.jar"/>
+	<classpathentry kind="lib" path="libs/stores-jdk-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="libs/stores-api-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="libs/stores-common-3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/reactor-extra-3.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/reactor-tools-3.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/reactor-netty-0.8.15.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
